@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\projetos\obj\Debug\net7.0\projetos.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\projetos\obj\Debug\net7.0\projetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\projetos\obj\Debug\net7.0\projetos.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\projetos\obj\Debug\net7.0\projetos.AssemblyInfo.cs
+C:\Users\vinic\Desktop\projetos\obj\Debug\net7.0\projetos.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\projetos\bin\Debug\net7.0\projetos.exe
+C:\Users\vinic\Desktop\projetos\bin\Debug\net7.0\projetos.deps.json
+C:\Users\vinic\Desktop\projetos\bin\Debug\net7.0\projetos.runtimeconfig.json
+C:\Users\vinic\Desktop\projetos\bin\Debug\net7.0\projetos.dll
+C:\Users\vinic\Desktop\projetos\bin\Debug\net7.0\projetos.pdb
+C:\Users\vinic\Desktop\projetos\obj\Debug\net7.0\projetos.dll
+C:\Users\vinic\Desktop\projetos\obj\Debug\net7.0\refint\projetos.dll
+C:\Users\vinic\Desktop\projetos\obj\Debug\net7.0\projetos.pdb
+C:\Users\vinic\Desktop\projetos\obj\Debug\net7.0\projetos.genruntimeconfig.cache
+C:\Users\vinic\Desktop\projetos\obj\Debug\net7.0\ref\projetos.dll
